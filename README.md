@@ -13,7 +13,7 @@ To get started with WiseExpenseTracker you may donwload a stable release demo fr
 2. Add your expenses with details such as amount, date, and category.
 3. 
 ## Contributions
-Contributions are welcome! If you have ideas for improvements, feature requests, or bug reports, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you have ideas for improvements, feature requests, or bug reports, feel free to open an issue or submit a pull request. If you would like to join our development team please send an email to wiseexpensetracker@gmail.com.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
