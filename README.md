@@ -15,7 +15,10 @@ To get started with WiseExpenseTracker you may donwload a stable release demo fr
 ## Usage
 1. Launch the application.
 2. Add your expenses with details such as amount, date, and category.
-3. 
+3. Monitor your spending trends through graphical representations.
+4. Set budgets and receive alerts when nearing or exceeding them.
+5. Export your data for analysis or archival purposes.
+   
 ## Contributions
 Contributions are welcome! If you have ideas for improvements, feature requests, or bug reports, feel free to open an issue or submit a pull request. If you would like to join our development team please send an email to wiseexpensetracker@gmail.com.
 
@@ -24,4 +27,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 - Special thanks to [contributors](CONTRIBUTORS.md) who have helped improve WiseExpenseTracker.
-- Icons made by [Jeremy Couch(The Devloper and CEO)](https://www.WiseExpenseTracker.com).
+- Icons made by [Jeremy Couch(The Devloper and CEO)](https://www.WiseExpenseTracker.com). Website not yet avalible.
