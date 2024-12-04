@@ -1,4 +1,4 @@
-# WiseExpenseTracker Demo
+# WiseExpenseTracker Demo | Not up to date
 
 WiseExpenseTracker Demo is a Java-based expense tracker program designed to help you manage your finances efficiently. With its intuitive interface and robust features, you can easily track your expenses, categorize spending, and gain insights into your financial habits.
 
